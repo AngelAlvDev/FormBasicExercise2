@@ -121,8 +121,9 @@
             this.Controls.Add(this.label1);
             this.Controls.Add(this.textBox2);
             this.Controls.Add(this.textBox1);
+            this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
             this.Name = "FormsBasicExercise2";
-            this.Text = "Form1";
+            this.Text = "Programa sumador de enteros";
             this.ResumeLayout(false);
             this.PerformLayout();
 
